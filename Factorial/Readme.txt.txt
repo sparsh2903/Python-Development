@@ -1,0 +1,1 @@
+tried factorial in python 
